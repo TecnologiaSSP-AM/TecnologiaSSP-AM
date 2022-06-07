@@ -10,6 +10,6 @@
 
 [Secretaria de Segurança Pública do Estado do Amazonas](http://www.ssp.am.gov.br/) </br>
 
-[<img  height="80em" src="https://images.vexels.com/media/users/3/223136/isolated/lists/984f500cf9de4519b02b354346eb72e0-m-dias-sociais-do-cone-do-facebook.png">](https://www.facebook.com/segurancaAM)
+[<img  height="75em" src="https://images.vexels.com/media/users/3/223136/isolated/lists/984f500cf9de4519b02b354346eb72e0-m-dias-sociais-do-cone-do-facebook.png">](https://www.facebook.com/segurancaAM)
 [<img  height="80em" src="https://images.vexels.com/media/users/3/137198/isolated/lists/07f0d7b69ef071571e4ada2f4d6a053a-icone-do-instagram-colorido.png" >](https://www.instagram.com/seguranca_am/)
 [<img height="80em" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png">](https://www.youtube.com/c/SegurancaAM)
