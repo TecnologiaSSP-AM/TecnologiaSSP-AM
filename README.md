@@ -8,6 +8,13 @@
 
 <hr>
 
+<div align= "center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TecnologiaSSP-AM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecnologiaSSP-AM&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+<hr>
+
 [Secretaria de Segurança Pública do Estado do Amazonas](http://www.ssp.am.gov.br/) </br>
 
 [<img  height="75em" src="https://images.vexels.com/media/users/3/223136/isolated/lists/984f500cf9de4519b02b354346eb72e0-m-dias-sociais-do-cone-do-facebook.png">](https://www.facebook.com/segurancaAM)
