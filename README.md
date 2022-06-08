@@ -2,13 +2,13 @@
 
 <h2 align= "center">Departamento de Tecnologia</h2>
 
-<div>
+<div align= "center">
 <img  height="400em" src="https://scontent.fpll6-1.fna.fbcdn.net/v/t39.30808-6/277555229_340912614737475_5416017038484902437_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=0sIdIRX0b1IAX-rrkaW&_nc_ht=scontent.fpll6-1.fna&oh=00_AT8j_W6uJ4zN9q06G7k7cGonmXcyg7QNdYanvwZ5iLz2EQ&oe=62A4B8E5" alt="SSP-AM">
 </div>
 
 <hr>
 
-<div align= "center">
+<div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TecnologiaSSP-AM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecnologiaSSP-AM&layout=compact&langs_count=7&theme=algolia"/>
 </div>
