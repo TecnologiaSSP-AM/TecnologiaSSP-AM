@@ -2,7 +2,7 @@
 <h2 align="center">Secretaria de Segurança Pública do Amazonas</h2>
 
 <div align="center">
- <img height="230px"src="https://www.ssp.am.gov.br/wp-content/uploads/2019/08/Logo-SSP-Am-novo-300x298.png">
+ <img height="300px" src="https://jcconcursos.com.br/media/_versions/noticia/concurso-ssp-am-1_widelg.jpg">
 </div>
 <br><br>
 <div>
